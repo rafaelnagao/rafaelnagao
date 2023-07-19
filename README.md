@@ -1,6 +1,4 @@
 <h1>Hi there 👋, <p><img src=https://komarev.com/ghpvc/?username=rafaelnagao&color=orange&label=Guest> </p></h1>
-
-<br>
 <h3>My name is <b>Rafael Nagao</b>, I'm a specialized functional and manual QA with a background in Psychology and 10 years of experience in Human Rights. Strong problem-solving, empathy, and teamwork. </h3>
 <br>
 <br>
@@ -13,7 +11,7 @@
 <br>
 <h1>Stacks</h1>
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a></code> <code><img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a></code> <code><img height="30" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"></a></code> 
-
+<br>
 <br>
 <br>
 
