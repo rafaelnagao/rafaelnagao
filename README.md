@@ -14,4 +14,4 @@
 - [meu-projeto-de-qa](https://github.com/rafaelnagao?tab=repositories)
 
 ### 🌐 Onde me encontrar
-[LinkedIn](https://www.linkedin.com/in/rafaelnagao/) | [Email](emailto:rafaelnagao@msn.com)
+[LinkedIn](https://www.linkedin.com/in/rafaelnagao/) | [Email](email:rafaelnagao@msn.com)
