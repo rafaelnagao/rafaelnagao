@@ -12,8 +12,6 @@
 
 ### 📂 Repos recomendados
 - [meu-projeto-de-qa](https://github.com/rafaelnagao?tab=repositories)
-- [meu-app-react](...)
-- [meu-projeto-creative](...)
 
 ### 🌐 Onde me encontrar
-[LinkedIn](...) | [Portfolio](...) | [YouTube/Twitch](...)  
+[LinkedIn](https://www.linkedin.com/in/rafaelnagao/) | [Portfolio](https://github.com/rafaelnagao?tab=repositories)
