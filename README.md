@@ -6,9 +6,7 @@
 - Front‑end com React (estudo e projetos pessoais)
 
 ### 🛠️ Stack principal
-- **Testes**: Python, Selenium, pytest, Playwright, Cucumber  
-- **Back‑end / DevOps**: Python, Docker, CI/CD  
-- **Front‑end**: React, JavaScript  
+- **Testes**: Python, Selenium, pytest, Playwright  ![Python](https://badges.aleen42.com/src/python.svg) 
 
 ### 📂 Repos recomendados
 - [meu-projeto-de-qa](https://github.com/rafaelnagao?tab=repositories)
