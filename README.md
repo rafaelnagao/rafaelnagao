@@ -11,7 +11,7 @@
 - **Front‑end**: React, JavaScript  
 
 ### 📂 Repos recomendados
-- [meu-projeto-de-qa]([...](https://github.com/rafaelnagao?tab=repositories))
+- [meu-projeto-de-qa](https://github.com/rafaelnagao?tab=repositories)
 - [meu-app-react](...)
 - [meu-projeto-creative](...)
 
