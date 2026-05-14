@@ -1,4 +1,4 @@
-👋 Olá! Sou R.Yo, QA Automation Engineer baseado em Lisboa, focado em Python, Selenium e pytest.
+👋 Olá! Sou Rafael Nagao – QA Automation Engineer baseado em Lisboa, focado em Python, Selenium e pytest.
 
 ### 🧠 O que eu faço
 - Automatização de testes end‑to‑end e APIs  
